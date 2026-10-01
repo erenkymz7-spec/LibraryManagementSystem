@@ -1,0 +1,5 @@
+1;The Hobbit;J.R.R. Tolkien;Fantasy;1937;true
+2;1984;George Orwell;Dystopian;1949;false
+3;Clean Code;Robert C. Martin;Software;2008;false
+4;Effective Java;Joshua Bloch;Software;2018;false
+5;Animal Farm;George Orwell;Fiction;1945;false
